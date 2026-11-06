@@ -1,0 +1,8 @@
+variable,q1,q3,limite_inferior_iqr,limite_superior_iqr,cantidad_atipicos_iqr,maximo,user_id_maximo,user_name_maximo,cluster_del_maximo
+user_reputation,1.0,1.0,1.0,1.0,505,510.0,u_1oKVc6kg3To2xc1KCugJoAG3zdl,squeakymouse,2
+num_reviews,1.0,1.0,1.0,1.0,2112,25.0,u_1oKVZzipo1u8lcqQzDUcw4UBn9e,2124arizona,5
+avg_stars,4.428571428571429,5.0,3.571428571428572,5.857142857142857,2283,5.0,u_1oKVZzipo1u8lcqQzDUcw4UBn9e,2124arizona,5
+avg_thumbs_up,0.0,0.5,-0.75,1.25,1995,106.0,u_1oKeIVd9zJUEq3FqmupLUBRsYme,C,1
+avg_thumbs_down,0.0,0.0,0.0,0.0,2239,126.0,u_1oKc37S7gXGRL4Rh0CFwVcT3jTe,Landon,3
+avg_reply_count,0.0,0.0,0.0,0.0,228,3.0,u_1oKd0qIiH6zumODMgZY0SVCYKUi,Elle,1
+avg_best_score,100.0,127.21666666666667,59.175,168.04166666666669,2938,934.0,u_LA8nIIJWwFv8,Librartist,1
